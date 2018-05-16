@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RootNodeDescription NamespaceGuid="c192799c-82cd-43cc-bc11-12996bca800f" Id="SCCMViewLibrary" DisplayName="ViewNodeName" Description="ViewNodeDescription">  
+  <ResourceAssembly>    
+  <Assembly>SCCMViewLibrary.dll</Assembly>    
+<Type>SCCMViewLibrary.Properties.Resources.resources</Type>  
+</ResourceAssembly>  
+<ImagesDescription>    
+  <ResourceAssembly>      
+    <Assembly>SCCMViewLibrary.dll</Assembly>      
+<Type>SCCMViewLibrary.Properties.Resources.resources</Type>    
+</ResourceAssembly>    
+<ImageResourceName>NodeIcon</ImageResourceName> 
+</ImagesDescription>  
+<ViewAssemblyDescriptions>    
+  <ViewAssemblyDescription>      
+    <Assembly>SCCMViewLibrary.dll</Assembly>    
+  <Type>SCCMViewLibrary.ViewNodeDescription</Type>   
+ </ViewAssemblyDescription>  
+</ViewAssemblyDescriptions>
+</RootNodeDescription>
+

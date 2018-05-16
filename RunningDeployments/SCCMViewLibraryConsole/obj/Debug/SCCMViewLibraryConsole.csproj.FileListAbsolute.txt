@@ -1,0 +1,11 @@
+C:\Users\mme\Dropbox\_VSProjects\SCCMControls\SCCMViewLibraryConsole\bin\Debug\SCCMViewLibraryConsole.exe.config
+C:\Users\mme\Dropbox\_VSProjects\SCCMControls\SCCMViewLibraryConsole\bin\Debug\SCCMViewLibraryConsole.exe
+C:\Users\mme\Dropbox\_VSProjects\SCCMControls\SCCMViewLibraryConsole\bin\Debug\SCCMViewLibraryConsole.pdb
+C:\Users\mme\Dropbox\_VSProjects\SCCMControls\SCCMViewLibraryConsole\obj\Debug\SCCMViewLibraryConsole.csprojAssemblyReference.cache
+C:\Users\mme\Dropbox\_VSProjects\SCCMControls\SCCMViewLibraryConsole\obj\Debug\SCCMViewLibraryConsole.csproj.CoreCompileInputs.cache
+C:\Users\mme\Dropbox\_VSProjects\SCCMControls\SCCMViewLibraryConsole\obj\Debug\SCCMViewLibraryConsole.exe
+C:\Users\mme\Dropbox\_VSProjects\SCCMControls\SCCMViewLibraryConsole\obj\Debug\SCCMViewLibraryConsole.pdb
+C:\Users\mme\Dropbox\_VSProjects\SCCMControls\SCCMViewLibraryConsole\bin\Debug\SCCMRunningDeployments.json
+C:\Users\mme\Dropbox\_VSProjects\SCCMControls\SCCMViewLibraryConsole\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mme\Dropbox\_VSProjects\SCCMControls\SCCMViewLibraryConsole\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mme\Dropbox\_VSProjects\SCCMControls\SCCMViewLibraryConsole\obj\Debug\SCCMViewLibraryConsole.csproj.CopyComplete
