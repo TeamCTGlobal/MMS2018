@@ -1,7 +1,10 @@
 # Running Deployments
 
 Screenshots:
+
 ![Alt text](https://github.com/TeamCTGlobal/MMS2018/blob/master/RunningDeployments/r1.png?raw=true "Running Deployments")
+
+![Alt text](https://github.com/TeamCTGlobal/MMS2018/blob/master/RunningDeployments/r2.png?raw=true "Running Deployments - Details")
 
 Installation:
 
