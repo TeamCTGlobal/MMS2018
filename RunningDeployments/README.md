@@ -17,6 +17,10 @@ for every clients running the console
 
 3) Copy the folder 01d5609d-b0d4-42ea-a7eb-8c74f9825c92 with the RunningDeployments.xml file to C:\Program Files (x86)\Microsoft Configuration Manager\AdminConsole\XmlStorage\Extensions\Nodes
 
+4) Open RunningDeployments.config and change the targetURL to your own webserver
+
+5) Enjoy!
+
 
 
 
