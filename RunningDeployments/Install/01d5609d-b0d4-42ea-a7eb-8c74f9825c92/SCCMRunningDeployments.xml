@@ -1,0 +1,16 @@
+<RootNodeDescription NamespaceGuid="aaa0eafa-0210-47ca-81ae-ff9671e98107" Id="CTWebbrowser" DisplayName="Running Deployments">
+                <ImagesDescription>
+                  <ResourceAssembly>
+                    <Assembly>SCCMRunningDeployments.dll</Assembly>
+                    <Type>SCCMViewLibrary.Properties.Resources.resources</Type>
+                  </ResourceAssembly>
+                  <ImageResourceName>NodeIcon</ImageResourceName>
+                </ImagesDescription>
+                <ViewAssemblyDescriptions>
+                  <ViewAssemblyDescription>
+                    <Assembly>SCCMRunningDeployments.dll</Assembly>
+                    <Type>SCCMViewLibrary.MyViewDescription</Type>
+                  </ViewAssemblyDescription>
+                </ViewAssemblyDescriptions>
+</RootNodeDescription>
+
