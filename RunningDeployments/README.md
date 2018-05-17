@@ -21,6 +21,7 @@ for every clients running the console
 
 5) Enjoy!
 
+Sidenote: The assembly is basically just a webbrowser, so you could rename the displayname inside the xml file, change the URL to something else and change the GUID foldername to another GUID so it will switch place. [Read more here about doing this](https://msdn.microsoft.com/en-us/library/hh442693.aspx) or reach out for help :) 
 
 
 
